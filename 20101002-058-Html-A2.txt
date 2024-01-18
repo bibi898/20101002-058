@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>One Web Page</title>
+    
+       <body bgcolor="pink">
+        </body>
+
+</head>
+<body>
+    
+    <h3>Create a web page</h3>
+    <br>
+    <h3>Name: Muhammad Huzaifa</h3>
+    <h3>Introduction:</h3>
+    <p>My Name is Hafiz Muhammad Huzaifa.I'm From Sialkot the city of Punjab,Pakitsan.<br>I'm 22 years old.I have completed my school education from the Educators School.<br>I went to Superior college for intermedite and done FSC in Pre Engineering.<br>I also got certificate in Hifz ul Quran from Jamia Nuamania.<br>I have a great interest in computer Science thats why I take admission in BSCS at University of Sialkot.</p>
+    <h3>Hobbies</h3>
+    <ol>
+        <li>Cricket</li>
+        <li>Programming</li>
+        <li>Running</li>
+        <li>Reading</li>
+        <li>Driving</li>
+    </ol>
+    <h3>Places that I visit </h3>
+    <ol>
+        <li>Minar-e-Pakistan</li>
+<img src="C:\Users\H P\Downloads\minar pak.jpg" height="100px" width="100px"><br>
+        <li>Badshahi Mosque</li>
+<img src="C:\Users\H P\Downloads\badsahai masjid.jpg" height="100px" width="100px"><br>
+        <li>Faisal Mosque</li>
+<img src="C:\Users\H P\Downloads\faisal masjid.jpg" height="100px" width="100px"><br>
+        <li>rohtas Fort Jehlum</li>
+<img src="C:\Users\H P\Downloads\Rohtas_Fort.jpg" height="100px" width="100px"><br>
+        <li>Quaid-e-Azam Tomb</li>
+<img src="C:\Users\H P\Downloads\Jinnah_Mausoleum.jfif" height="100px" width="100px"><br>
+    </ol>
+    <br>
+
+
+    
+    <h2 style="text-align: center;">CV</h2>
+    <h3>Name: Muhammad Huzaifa</h3>
+    <h3>Email: 20101002-091@uskt.edu.pk</h3>
+
+    <h3>Profile Picture</h3>
+    <img src="C:\Users\H P\Downloads\WhatsApp Image 2023-10-29 at 6.59.49 PM.jpeg" height="100px" width="100px"><br>
+
+
+    <table border="2px">
+    <tr>
+        <th>Institues</th>
+        <th>Degree</th>
+        <th>Year</th>
+    </tr>
+    <tr>
+        <td>The Educators School</td>
+        <td>Matric Computer Science</td>
+        <td>2017</td>
+    </tr>
+    <tr>
+        <td>Superior College</td>
+        <td>FSC</td>
+        <td>2019</td>
+    </tr>
+    <tr>
+        <td>University of Sialkot</td>
+        <td>BSCS</td>
+        <td>2020-2024</td>
+    </tr>
+    
+    </table>
+
+    <h3>Professional Skills</h3>
+    <ul>
+        <li>Coding</li>
+        <li>Computer Basics</li>
+        <li>Excel</li>
+        <li>Ms Word</li>
+        <li>Powerpoint</li>
+    </ul>
+
+    <h3>Projects we developed</h3>
+    <ul>
+        <li>Car parking system</li>
+        <li>Hotel Management System</li> 
+        <li>Hands To Talk</li>
+    </ul>
+
+    <h3>Hobbies</h3>
+    <ol>
+        <li>Cricket</li>
+<img src="C:\Users\H P\Downloads\cricket.jpg" height="100px" width="100px"><br>
+        <li>Programming</li>
+<img src="C:\Users\H P\Downloads\programming.jpg" height="100px" width="100px"><br>
+        <li>Running</li>
+<img src="C:\Users\H P\Downloads\running.png" height="100px" width="100px"><br>
+        <li>Reading</li>
+<img src="C:\Users\H P\Downloads\reading.jfif" height="100px" width="100px"><br>
+        <li>Tourism</li>
+<img src="C:\Users\H P\Downloads\tourism.jfif" height="100px" width="100px"><br>
+    </ol>
+
+    <h3>Life Ambition</h3>
+    <p>1. I want to acheive all my goals and ambitions for which I have worked hard.<br>2. I want to serve humanity by my work as well as by my character.<br>3. I want to raise a happy and healthy family.<br>4. I want to become a good athelte as well.<br>5. I want to become a good muslim to serve my religion as well.
+    </p>
+    <h3>What I did for my country</h3>
+    <p> I have take part in green Pakistan initiative and I planted lots of trees.I also motivate other people to take part in this program and make environment good for human beings.
+</p>
+
+    <h3>What do you want to do for your country</h3>
+    <p>I wanted to become a good citizen by following all rules and regulations of my Country.I will tried my best to show the bright image of my country in the world. I will raise voice against all evil souls how wanted to damage our countries pride. I wanted to use my education for the little bit betterment of my country.</p>
+
+</body>
+</html>
